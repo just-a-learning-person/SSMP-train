@@ -1,0 +1,4 @@
+com\itheima\service\BookServiceTestCase.class
+com\itheima\Springboot08SsmpApplicationTests.class
+com\itheima\service\BookServiceTest.class
+com\itheima\dao\BookDaoTestCase.class
